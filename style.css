@@ -1,0 +1,48 @@
+h1 {
+    color: rgb(197, 10, 10);
+}
+
+h2 {
+    color: gold;
+}
+
+.head {
+    color: blue;
+}
+
+img {
+    border: 1.5px solid aqua;
+    border-radius: 20%;
+}
+
+.first {
+    color: rgb(255, 0, 123);
+}
+
+.second {
+    color: rgb(0, 110, 255);
+}
+
+.third {
+    color:rgb(255, 0, 123);
+}
+
+.fourth {
+    color: rgb(0, 110, 255);
+}
+
+.fifth {
+    color:rgb(255, 0, 123);
+}
+
+li {
+    color: rgb(21, 255, 0);
+}
+
+#one {
+    color: orangered;
+}
+
+#para {
+    color: blue;
+}
