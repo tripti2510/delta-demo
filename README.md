@@ -10,4 +10,4 @@ Tripti Shakya.
 # New Project
 
 This is a portfolio page.
-Created by Tripti Shakya
+Created by Tripti Shakya.
